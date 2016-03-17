@@ -7,3 +7,12 @@ C:\Users\mauricio.silva\Desktop\SortingAnalysis\SortingAnalysis\bin\Debug\Sortin
 C:\Users\mauricio.silva\Desktop\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.exe
 C:\Users\mauricio.silva\Desktop\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.pdb
 C:\Users\mauricio.silva\Desktop\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.Form1.resources
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\bin\Debug\SortingAnalysis.exe.config
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.exe
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.pdb
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\bin\Debug\SortingAnalysis.exe
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\bin\Debug\SortingAnalysis.pdb
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.Form1.resources
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.Properties.Resources.resources
+C:\Users\milena.fonseca\Desktop\SortingAnalysis\SortingAnalysis\SortingAnalysis\obj\Debug\SortingAnalysis.csproj.GenerateResource.Cache

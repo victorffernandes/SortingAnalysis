@@ -203,9 +203,8 @@ namespace SortingAnalysis
 						}
 					}
 				}
-			//print();
 			msw.Stop();
-			Console.WriteLine(msw.Elapsed);
+            Form1.time2 += msw.Elapsed.Milliseconds;
 		}
 
 	#endregion
